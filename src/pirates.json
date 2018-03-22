@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Monkey D. Luffy",
+    "image": "/img/luffy.png",
+    "position": "Captain",
+    "crew": "Strawhat Pirates"
+  },
+  {
+    "id": 2,
+    "name": "Roronoa Zoro",
+    "image": "/img/zoro.png",
+    "position": "First Mate",
+    "crew": "Strawhat Pirates"
+  },
+  {
+    "id": 3,
+    "name": "Cat Burglar Nami",
+    "image": "/img/nami.png",
+    "position": "Navigator",
+    "crew": "Strawhat Pirates"
+  },
+  {
+    "id": 4,
+    "name": "Usopp",
+    "image": "/img/usopp.png",
+    "position": "Sniper",
+    "crew": "Strawhat Pirates"
+  },
+  {
+    "id": 5,
+    "name": "Black Leg Sanji",
+    "image": "/img/sanji.png",
+    "position": "Ship Cook",
+    "crew": "Strawhat Pirates"
+  },
+  {
+    "id": 6,
+    "name": "Tony Tony Chopper",
+    "image": "/img/chopper.png",
+    "position": "Doctor",
+    "crew": "Strawhat Pirates"
+  },
+  {
+    "id": 7,
+    "name": "Nico Robin",
+    "image": "/img/robin.png",
+    "position": "Ship Archeologist",
+    "crew": "Strawhat Pirates"
+  },
+  {
+    "id": 8,
+    "name": "Franky",
+    "image": "/img/franky.png",
+    "position": "Ship Mechanic",
+    "crew": "Strawhat Pirates"
+  },
+  {
+    "id": 9,
+    "name": "Brook",
+    "image": "/img/brook.png",
+    "position": "Ship Musician",
+    "crew": "Strawhat Pirates"
+  }
+]
