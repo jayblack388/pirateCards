@@ -1,3 +1,8 @@
+# To-Do
+re-seed with another crew
+figure out deployment
+figure out how to seed the deployed db
+
 # Create React Express App
 
 ## About This Boilerplate

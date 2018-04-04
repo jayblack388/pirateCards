@@ -5,6 +5,10 @@ export default {
   getPirates: function() {
     return axios.get("/api/pirates");
   },
+  // Gets all pirate crews
+  getCrews: function() {
+    return axios.get("/api/crews")
+  },
   getPirateCrew: function(crew) {
     return axios.get("/api/pirates/" + crew)
   },

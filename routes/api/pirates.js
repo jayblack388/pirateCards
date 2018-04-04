@@ -7,10 +7,8 @@ router.route("/")
   .post(piratesController.create);
 
 // Matches with "/api/pirates/:id"
-router
-  .route("/:id")
-  .get(piratesController.findById)
-  .put(piratesController.update)
-  .delete(piratesController.remove);
+router.route("/:crew")
+  .get(piratesController.findByCrew)
+  .post(piratesController.create);
 
 module.exports = router;

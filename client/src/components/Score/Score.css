@@ -1,0 +1,12 @@
+h1, h3 {
+    font-family: 'one_pieceregular';
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 40px
+}

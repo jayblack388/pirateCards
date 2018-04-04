@@ -16,8 +16,17 @@ module.exports = {
       .catch(err => res.status(422).json(err));
   },
   findByCrew: function(req, res) {
+    console.log(req.params.crew)
     db.Pirate
-      .findByCrew(req.params.crew)
+      .find({
+        crew: req.params.crew
+      })
+      .then(dbModel => res.json(dbModel))
+      .catch(err => res.status(422).json(err))
+  },
+  findAllCrews: function(req,res) {
+    db.Pirate
+      .distinct('crew')
       .then(dbModel => res.json(dbModel))
       .catch(err => res.status(422).json(err))
   },

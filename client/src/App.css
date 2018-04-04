@@ -1,5 +1,14 @@
+@font-face {
+  font-family: 'one_pieceregular';
+  src: url('font/one-piece-font-webfont.woff2') format('woff2'),
+       url('font/one-piece-font-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .title {
   width: 100%;
+  color: #e22620;
   text-align: center;
   margin-bottom: 50px;
 }

@@ -9,9 +9,6 @@ const pirateSchema = new Schema({
   selected: {type: Boolean, required: true, default: false},
   date: { type: Date, default: Date.now }
 });
-pirateSchema.static('findByCrew', function (crew) {
-  return this.find({crew: crew})
-})
 
 const Pirate = mongoose.model("Pirate", pirateSchema);
 

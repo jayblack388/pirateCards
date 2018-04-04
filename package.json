@@ -19,8 +19,8 @@
     "nodemon": "^1.11.0"
   },
   "dependencies": {
-    "mongoose": "^4.11.7",
     "body-parser": "^1.17.2",
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "mongoose": "^4.11.7"
   }
 }
