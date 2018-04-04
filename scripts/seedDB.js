@@ -428,7 +428,94 @@ const pirateSeed = [
     "crew": "Shichibukai",
     "selected": false
   },
-
+  {
+    "date": new Date(Date.now()),
+    "name": "Monkey D. Dragon",
+    "image": "/img/revs/dragon.png",
+    "position": "Leader",
+    "crew": "Revolutionary Army",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Sabo",
+    "image": "/img/revs/sabo.png",
+    "position": "Chief of Staff",
+    "crew": "Revolutionary Army",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Emporio Ivankov",
+    "image": "/img/revs/ivankov.png",
+    "position": "Okama King",
+    "crew": "Revolutionary Army",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Inazuma",
+    "image": "/img/revs/inazuma.png",
+    "position": "Okama Soldier",
+    "crew": "Revolutionary Army",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Kuma",
+    "image": "/img/revs/kuma.png",
+    "position": "Former Member",
+    "crew": "Revolutionary Army",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Terry Gilteo",
+    "image": "/img/revs/terry.png",
+    "position": "Revolutionary Member",
+    "crew": "Revolutionary Army",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Bunny Joe",
+    "image": "/img/revs/joe.png",
+    "position": "Revolutionary Member",
+    "crew": "Revolutionary Army",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Koala",
+    "image": "/img/revs/koala.png",
+    "position": "Revolutionary Operative",
+    "crew": "Revolutionary Army",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Hack",
+    "image": "/img/revs/hack.png",
+    "position": "Revolutionary Operative",
+    "crew": "Revolutionary Army",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Raise Max",
+    "image": "/img/revs/max.png",
+    "position": "Revolutionary Operative",
+    "crew": "Revolutionary Army",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Nico Robin",
+    "image": "/img/revs/robin.png",
+    "position": "Revolutionary Ally",
+    "crew": "Revolutionary Army",
+    "selected": false
+  }
 ];
 
 db.Pirate
