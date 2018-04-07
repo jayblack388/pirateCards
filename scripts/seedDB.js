@@ -631,7 +631,7 @@ const pirateSeed = [
   {
     "date": new Date(Date.now()),
     "name": "Speed Jiru",
-    "image": "/img/whitebeard/jiru.png",
+    "image": "/img/whitebeard/speedJiru.png",
     "position": "14th Division Commander",
     "crew": "Whitebeard Pirates",
     "selected": false

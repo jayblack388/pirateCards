@@ -23,7 +23,7 @@
   padding: 0;
   list-style-type: none;
 }
-@media (max-width: 576px) {
+@media (max-width: 768px) {
   .card {
     height: 200px;
     width: 200px;

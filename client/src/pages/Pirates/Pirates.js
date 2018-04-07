@@ -1,7 +1,7 @@
 import React from "react";
 import PirateCard from "../../components/PirateCard";
 import Score from "../../components/Score";
-import { Row, Container } from "../../components/Grid";
+import { Row, Col, Container } from "../../components/Grid";
 import Modal from "react-modal";
 import API from "../../utils/API"
 import {shuffle, imageSwitch} from "../../utils/utils"
@@ -135,16 +135,18 @@ class Pirates extends React.Component {
           <h1 className="title">Wanted List</h1>
           <Row>
               {this.state.pirates.map((pirate)=>(
-                <PirateCard
-                  id={pirate._id}
-                  key={pirate._id}
-                  selected={pirate.selected}
-                  name={pirate.name}
-                  image={pirate.image}
-                  position={pirate.position}
-                  crew={pirate.crew}
-                  onClick={this.handleClick}
-                />
+                <div className="col-6 col-lg-4">
+                  <PirateCard
+                    id={pirate._id}
+                    key={pirate._id}
+                    selected={pirate.selected}
+                    name={pirate.name}
+                    image={pirate.image}
+                    position={pirate.position}
+                    crew={pirate.crew}
+                    onClick={this.handleClick}
+                  />
+                </div>
               ))}
           </Row>          
         </Container>
