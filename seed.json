@@ -1,0 +1,445 @@
+{
+    "data": [
+    {
+        "name": "Monkey D. Luffy",
+        "image": "/img/strawhat/luffy.png",
+        "position": "Captain",
+        "crew": "Strawhat Pirates",
+        "selected": false
+    },
+    {
+        "name": "Pirate Hunter Roronoa Zoro",
+        "image": "/img/strawhat/zoro.png",
+        "position": "First Mate",
+        "crew": "Strawhat Pirates",
+        "selected": false
+    },
+    {
+        "name": "Cat Burglar Nami",
+        "image": "/img/strawhat/nami.png",
+        "position": "Navigator",
+        "crew": "Strawhat Pirates",
+        "selected": false
+    },
+    {
+        "name": "God Usopp",
+        "image": "/img/strawhat/usopp.png",
+        "position": "Sniper",
+        "crew": "Strawhat Pirates",
+        "selected": false
+    },
+    {
+        "name": "Black Leg Sanji",
+        "image": "/img/strawhat/sanji.png",
+        "position": "Ship Cook",
+        "crew": "Strawhat Pirates",
+        "selected": false
+    },
+    {
+        "name": "Cotton Candy Lover Chopper",
+        "image": "/img/strawhat/chopper.png",
+        "position": "Doctor",
+        "crew": "Strawhat Pirates",
+        "selected": false
+    },
+    {
+        "name": "Demon Child Nico Robin",
+        "image": "/img/strawhat/robin.png",
+        "position": "Ship Archeologist",
+        "crew": "Strawhat Pirates",
+        "selected": false
+    },
+    {
+        "name": "Iron Man Franky",
+        "image": "/img/strawhat/franky.png",
+        "position": "Ship Mechanic",
+        "crew": "Strawhat Pirates",
+        "selected": false
+    },
+    {
+        "name": "Soul King Brook",
+        "image": "/img/strawhat/brook.png",
+        "position": "Ship Musician",
+        "crew": "Strawhat Pirates",
+        "selected": false
+    },
+    {
+        "name": "Spandam",
+        "image": "/img/cp9/spandam.png",
+        "position": "Chief",
+        "crew": "CP9",
+        "selected": false
+    },
+    {
+        "name": "Rob Lucci",
+        "image": "/img/cp9/lucci.png",
+        "position": "Leopard Assassin",
+        "crew": "CP9",
+        "selected": false
+    },
+    {
+        "name": "Kaku",
+        "image": "/img/cp9/kaku.png",
+        "position": "Giraffe Assassin",
+        "crew": "CP9",
+        "selected": false
+    },
+    {
+        "name": "Jabra",
+        "image": "/img/cp9/jabra.png",
+        "position": "Wolf Assassin",
+        "crew": "CP9",
+        "selected": false
+    },
+    {
+        "name": "Blueno",
+        "image": "/img/cp9/blueno.png",
+        "position": "Door Assassin",
+        "crew": "CP9",
+        "selected": false
+    },
+    {
+        "name": "Kumadori",
+        "image": "/img/cp9/kumadori.jpg",
+        "position": "Hermit Assassin",
+        "crew": "CP9",
+        "selected": false
+    },
+    {
+        "name": "Fukuro",
+        "image": "/img/cp9/fukuro.png",
+        "position": "Loudmouth Assassin",
+        "crew": "CP9",
+        "selected": false
+    },
+    {
+        "name": "Kalifa",
+        "image": "/img/cp9/kalifa.png",
+        "position": "Soapy Assassin",
+        "crew": "CP9",
+        "selected": false
+    },
+    {
+        "name": "Nero",
+        "image": "/img/cp9/nero.png",
+        "position": "Assassin in Training",
+        "crew": "CP9",
+        "selected": false
+    },
+    {
+        "name": "Crocodile",
+        "image": "/img/baroque/croc.png",
+        "position": "Mr. 0",
+        "crew": "Baroque Works",
+        "selected": false
+    },
+    {
+        "name": "Nico Robin",
+        "image": "/img/baroque/robin.png",
+        "position": "Ms. All-Sunday",
+        "crew": "Baroque Works",
+        "selected": false
+    },
+    {
+        "name": "Daz Bones",
+        "image": "/img/baroque/daz.png",
+        "position": "Mr. 1",
+        "crew": "Baroque Works",
+        "selected": false
+    },
+    {
+        "name": "Paula",
+        "image": "/img/baroque/paula.png",
+        "position": "Ms. Doublefinger",
+        "crew": "Baroque Works",
+        "selected": false
+    },
+    {
+        "name": "Bentham",
+        "image": "/img/baroque/bentham.png",
+        "position": "Mr. 2",
+        "crew": "Baroque Works",
+        "selected": false
+    },
+    {
+        "name": "Galdino",
+        "image": "/img/baroque/galdino.png",
+        "position": "Mr. 3",
+        "crew": "Baroque Works",
+        "selected": false
+    },
+    {
+        "name": "Ms. Golden Week",
+        "image": "/img/baroque/golden.png",
+        "position": "Ms. Golden Week",
+        "crew": "Baroque Works",
+        "selected": false
+    },
+    {
+        "name": "Mr. 4",
+        "image": "/img/baroque/mr4.png",
+        "position": "Mr. 4",
+        "crew": "Baroque Works",
+        "selected": false
+    },
+    {
+        "name": "Ms. Merry Christmas",
+        "image": "/img/baroque/xmas.png",
+        "position": "Ms. Merry Christmas",
+        "crew": "Baroque Works",
+        "selected": false
+    },
+    {
+        "name": "Mr. 5",
+        "image": "/img/baroque/mr5.png",
+        "position": "Mr. 5",
+        "crew": "Baroque Works",
+        "selected": false
+    },
+    {
+        "name": "Ms. Valentine",
+        "image": "/img/baroque/val.png",
+        "position": "Ms. Valentine",
+        "crew": "Baroque Works",
+        "selected": false
+    },
+    {
+        "name": "Mr. 13",
+        "image": "/img/baroque/mr13.png",
+        "position": "Mr. 13",
+        "crew": "Baroque Works",
+        "selected": false
+    },
+    {
+        "name": "Ms. Friday",
+        "image": "/img/baroque/friday.png",
+        "position": "Ms. Friday",
+        "crew": "Baroque Works",
+        "selected": false
+    },
+    {
+        "name": "Marshall D. Teach",
+        "image": "/img/blackbeard/teach.png",
+        "position": "Captain",
+        "crew": "Blackbeard Pirates",
+        "selected": false
+    },
+    {
+        "name": "Champion Jesus Burgess",
+        "image": "/img/blackbeard/burgess.png",
+        "position": "Helmsman",
+        "crew": "Blackbeard Pirates",
+        "selected": false
+    },
+    {
+        "name": "Shiliew of the Rain",
+        "image": "/img/blackbeard/shiliew.png",
+        "position": "Ex-Warden",
+        "crew": "Blackbeard Pirates",
+        "selected": false
+    },
+    {
+        "name": "Laffitte the Demon Sheriff",
+        "image": "/img/blackbeard/laffitte.png",
+        "position": "Navigator",
+        "crew": "Blackbeard Pirates",
+        "selected": false
+    },
+    {
+        "name": "Van Augur the Supersonic",
+        "image": "/img/blackbeard/augur.png",
+        "position": "Sniper",
+        "crew": "Blackbeard Pirates",
+        "selected": false
+    },
+    {
+        "name": "Death God Doc Q",
+        "image": "/img/blackbeard/doc.png",
+        "position": "Doctor",
+        "crew": "Blackbeard Pirates",
+        "selected": false
+    },
+    {
+        "name": "Colossal Battleship Sanjuan Wolf",
+        "image": "/img/blackbeard/wolf.png",
+        "position": "Uber Giant Escapee",
+        "crew": "Blackbeard Pirates",
+        "selected": false
+    },
+    {
+        "name": "Vasco Shot the Heavy Drinker",
+        "image": "/img/blackbeard/vasco.png",
+        "position": "Escapee",
+        "crew": "Blackbeard Pirates",
+        "selected": false
+    },
+    {
+        "name": "Crescent Moon Catarina Devon",
+        "image": "/img/blackbeard/catarina.png",
+        "position": "Escapee",
+        "crew": "Blackbeard Pirates",
+        "selected": false
+    },
+    {
+        "name": "Alvalo Pizarro the Corrupt King",
+        "image": "/img/blackbeard/pizarro.png",
+        "position": "Escapee",
+        "crew": "Blackbeard Pirates",
+        "selected": false
+    },
+    {
+        "name": "Dracule Mihawk",
+        "image": "/img/shichi/mihawk.png",
+        "position": "World's Greatest Swordsman",
+        "crew": "Shichibukai",
+        "selected": false
+    },
+    {
+        "name": "Bartholomew Kuma",
+        "image": "/img/shichi/kuma.png",
+        "position": "The Tyrant",
+        "crew": "Shichibukai",
+        "selected": false
+    },
+    {
+        "name": "Boa Hancock",
+        "image": "/img/shichi/hancock.png",
+        "position": "Empress of Amazon Lily",
+        "crew": "Shichibukai",
+        "selected": false
+    },
+    {
+        "name": "Buggy the Star Clown",
+        "image": "/img/shichi/buggy.png",
+        "position": "Chief of Buggy's Pirate Dispatch",
+        "crew": "Shichibukai",
+        "selected": false
+    },
+    {
+        "name": "Edward Weevil",
+        "image": "/img/shichi/weevil.png",
+        "position": "Whitebeard Jr?",
+        "crew": "Shichibukai",
+        "selected": false
+    },
+    {
+        "name": "Crocodile",
+        "image": "/img/shichi/croc.png",
+        "position": "Former President of Baroque Works",
+        "crew": "Shichibukai",
+        "selected": false
+    },
+    {
+        "name": "Donquixote Doflamingo",
+        "image": "/img/shichi/doffy.png",
+        "position": "King of Dressrosa",
+        "crew": "Shichibukai",
+        "selected": false
+    },
+    {
+        "name": "Gekko Moriah",
+        "image": "/img/shichi/moriah.png",
+        "position": "Captain of Thriller Bark",
+        "crew": "Shichibukai",
+        "selected": false
+    },
+    {
+        "name": "Jinbe, Knight of the Sea",
+        "image": "/img/shichi/jinbe.png",
+        "position": "Captain of the Sun Pirates",
+        "crew": "Shichibukai",
+        "selected": false
+    },
+    {
+        "name": "Marshall D. Teach",
+        "image": "/img/shichi/teach.png",
+        "position": "Captain of the Blackbeard Pirates",
+        "crew": "Shichibukai",
+        "selected": false
+    },
+    {
+        "name": "Trafalgar D. Water Law",
+        "image": "/img/shichi/law.png",
+        "position": "Captain of the Heart Pirates",
+        "crew": "Shichibukai",
+        "selected": false
+    },
+    {
+        "name": "Monkey D. Dragon",
+        "image": "/img/revs/dragon.png",
+        "position": "Leader",
+        "crew": "Revolutionary Army",
+        "selected": false
+    },
+    {
+        "name": "Sabo",
+        "image": "/img/revs/sabo.png",
+        "position": "Chief of Staff",
+        "crew": "Revolutionary Army",
+        "selected": false
+    },
+    {
+        "name": "Emporio Ivankov",
+        "image": "/img/revs/ivankov.png",
+        "position": "Okama King",
+        "crew": "Revolutionary Army",
+        "selected": false
+    },
+    {
+        "name": "Inazuma",
+        "image": "/img/revs/inazuma.png",
+        "position": "Okama Soldier",
+        "crew": "Revolutionary Army",
+        "selected": false
+    },
+    {
+        "name": "Kuma",
+        "image": "/img/revs/kuma.png",
+        "position": "Former Member",
+        "crew": "Revolutionary Army",
+        "selected": false
+    },
+    {
+        "name": "Terry Gilteo",
+        "image": "/img/revs/terry.png",
+        "position": "Revolutionary Member",
+        "crew": "Revolutionary Army",
+        "selected": false
+    },
+    {
+        "name": "Bunny Joe",
+        "image": "/img/revs/joe.png",
+        "position": "Revolutionary Member",
+        "crew": "Revolutionary Army",
+        "selected": false
+    },
+    {
+        "name": "Koala",
+        "image": "/img/revs/koala.png",
+        "position": "Revolutionary Operative",
+        "crew": "Revolutionary Army",
+        "selected": false
+    },
+    {
+        "name": "Hack",
+        "image": "/img/revs/hack.png",
+        "position": "Revolutionary Operative",
+        "crew": "Revolutionary Army",
+        "selected": false
+    },
+    {
+        "name": "Raise Max",
+        "image": "/img/revs/max.png",
+        "position": "Revolutionary Operative",
+        "crew": "Revolutionary Army",
+        "selected": false
+    },
+    {
+        "name": "Nico Robin",
+        "image": "/img/revs/robin.png",
+        "position": "Revolutionary Ally",
+        "crew": "Revolutionary Army",
+        "selected": false
+    }
+  ]
+}

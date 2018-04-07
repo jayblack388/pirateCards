@@ -19,7 +19,9 @@ const imageSwitch = (crewName) => {
         case "Shichibukai":
             return "/img/crews/shichibukai.png"
         case "Revolutionary Army":
-            return "/img/crews/revolutionary.png" 
+            return "/img/crews/revolutionary.png"
+        case "Whitebeard Pirates":
+            return "/img/crews/whitebeard.jpg"    
         default:
             break;
     }

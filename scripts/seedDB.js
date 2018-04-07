@@ -515,7 +515,144 @@ const pirateSeed = [
     "position": "Revolutionary Ally",
     "crew": "Revolutionary Army",
     "selected": false
-  }
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Edward Newgate",
+    "image": "/img/whitebeard/whitebeard.png",
+    "position": "Captain",
+    "crew": "Whitebeard Pirates",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Marco the Phoenix",
+    "image": "/img/whitebeard/marco.png",
+    "position": "1st Division Commander",
+    "crew": "Whitebeard Pirates",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Firefist Ace",
+    "image": "/img/whitebeard/ace.png",
+    "position": "2nd Division Commander",
+    "crew": "Whitebeard Pirates",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Diamond Jozu",
+    "image": "/img/whitebeard/jozu.png",
+    "position": "3rd Division Commander",
+    "crew": "Whitebeard Pirates",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Thatch",
+    "image": "/img/whitebeard/thatch.png",
+    "position": "4th Division Commander",
+    "crew": "Whitebeard Pirates",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Flower Sword Vista",
+    "image": "/img/whitebeard/vista.png",
+    "position": "5th Division Commander",
+    "crew": "Whitebeard Pirates",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Blamenco",
+    "image": "/img/whitebeard/blamenco.png",
+    "position": "6th Division Commander",
+    "crew": "Whitebeard Pirates",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Rakuyo",
+    "image": "/img/whitebeard/rakuyo.png",
+    "position": "7th Division Commander",
+    "crew": "Whitebeard Pirates",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Namur",
+    "image": "/img/whitebeard/namur.png",
+    "position": "8th Division Commander",
+    "crew": "Whitebeard Pirates",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Blenheim",
+    "image": "/img/whitebeard/blenheim.png",
+    "position": "9th Division Commander",
+    "crew": "Whitebeard Pirates",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Curiel",
+    "image": "/img/whitebeard/curiel.png",
+    "position": "10th Division Commander",
+    "crew": "Whitebeard Pirates",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Kingdew",
+    "image": "/img/whitebeard/kingdew.png",
+    "position": "11th Division Commander",
+    "crew": "Whitebeard Pirates",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Haruta",
+    "image": "/img/whitebeard/haruta.png",
+    "position": "12th Division Commander",
+    "crew": "Whitebeard Pirates",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Water Buffalo Atmos",
+    "image": "/img/whitebeard/atmos.png",
+    "position": "13th Division Commander",
+    "crew": "Whitebeard Pirates",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Speed Jiru",
+    "image": "/img/whitebeard/jiru.png",
+    "position": "14th Division Commander",
+    "crew": "Whitebeard Pirates",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Fossa",
+    "image": "/img/whitebeard/fossa.png",
+    "position": "15th Division Commander",
+    "crew": "Whitebeard Pirates",
+    "selected": false
+  },
+  {
+    "date": new Date(Date.now()),
+    "name": "Izo",
+    "image": "/img/whitebeard/izo.png",
+    "position": "16th Division Commander",
+    "crew": "Whitebeard Pirates",
+    "selected": false
+  },
+  
 ];
 
 db.Pirate

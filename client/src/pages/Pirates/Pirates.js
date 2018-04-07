@@ -124,7 +124,7 @@ class Pirates extends React.Component {
         >
           <img className="img-fluid" alt="Win/Lose" src={this.state.resultImg} />
           
-          <button onClick={this.closeModal}>Reset</button>        
+          <button className="btn btn-primary reset" onClick={this.closeModal}>Reset</button>        
         </Modal>
         <Score 
           crew={this.state.selectedCrew}

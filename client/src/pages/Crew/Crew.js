@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import PirateCard from "../../components/PirateCard";
 import { Row, Container } from "../../components/Grid";
+import Jumbotron from "../../components/Jumbotron";
 import API from "../../utils/API"
 import {imageSwitch} from "../../utils/utils"
 
@@ -38,7 +39,9 @@ class Crew extends React.Component {
   render() {
     return (
         <Container>
-          <h1 className="title">Pick a Pirate Crew</h1>
+          <Jumbotron>
+            <h1 className="title">Pick a Pirate Crew</h1>
+          </Jumbotron>
           <Row>
               {this.state.crews.map((crew)=>(
                 <Link style={{textDecoration: 'none'}} key={crew.name} to={"/crews/" + crew.name}>

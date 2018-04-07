@@ -13,3 +13,4 @@ const pirateSchema = new Schema({
 const Pirate = mongoose.model("Pirate", pirateSchema);
 
 module.exports = Pirate;
+
